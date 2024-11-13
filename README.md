@@ -1,1 +1,2 @@
-# calculator-js
+# odin-calculator
+intro final project. 
